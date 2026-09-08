@@ -19,12 +19,8 @@ Prosty algorytm polegający na porównywaniu sąsiednich elementów i zamianie i
 
 Złożoność czasowa: O(n²).
 
-##QUICK SORT
+## QUICK SORT
 
 Algorytm wykorzystujący metodę „dziel i zwyciężaj”. Wybiera pivot i dzieli dane na mniejsze oraz większe elementy.
 
 Średnia złożoność czasowa: O(n log n).
-
-#AUTOR
-
-Imię i nazwisko: [wpisz swoje dane]
